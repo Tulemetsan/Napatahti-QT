@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="app.ico">resource/app.ico</file>
+        <file alias="qt.png">resource/qt.png</file>
+    </qresource>
+    <qresource prefix="/24x24">
+        <file alias="exit.png">resource/24x24/Exit.png</file>
+        <file alias="save.png">resource/24x24/Save.png</file>
+        <file alias="edit.png">resource/24x24/Modify.png</file>
+        <file alias="new.png">resource/24x24/New document.png</file>
+        <file alias="dbase.png">resource/24x24/Database.png</file>
+        <file alias="table.png">resource/24x24/Table.png</file>
+        <file alias="list.png">resource/24x24/List.png</file>
+        <file alias="setting.png">resource/24x24/Application.png</file>
+        <file alias="clock.png">resource/24x24/Clock.png</file>
+        <file alias="report.png">resource/24x24/Report.png</file>
+        <file alias="print.png">resource/24x24/Print.png</file>
+        <file alias="compass.png">resource/24x24/Compass.png</file>
+        <file alias="redo.png">resource/24x24/Redo.png</file>
+        <file alias="earth.png">resource/24x24/Earth.png</file>
+        <file alias="copy.png">resource/24x24/Copy.png</file>
+        <file alias="cut.png">resource/24x24/Cut.png</file>
+        <file alias="erase.png">resource/24x24/Erase.png</file>
+        <file alias="apply.png">resource/24x24/Apply.png</file>
+        <file alias="paste.png">resource/24x24/Paste.png</file>
+        <file alias="person.png">resource/24x24/Person.png</file>
+        <file alias="refresh.png">resource/24x24/Refresh.png</file>
+        <file alias="filter.png">resource/24x24/Filter.png</file>
+        <file alias="diagram.png">resource/24x24/Diagram.png</file>
+        <file alias="favourites.png">resource/24x24/Favourites.png</file>
+        <file alias="trash.png">resource/24x24/Trash.png</file>
+        <file alias="view.png">resource/24x24/View.png</file>
+    </qresource>
+</RCC>
