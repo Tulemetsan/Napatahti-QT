@@ -10,7 +10,7 @@ C++ 17, Qt 6.0.3, swisseph
 - Appgui - frontend classes and designer forms<br>
 - Kernel - backend classes<br>
 - output - assembly directory structure for Windows<br>
-- locale, resource, screnshots - self-titled
+- locale, resource, screenshots - self-titled
 
 Here also provides utility files for assembly in Qt Creator 6.0.0, as example.
 
