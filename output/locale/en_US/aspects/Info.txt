@@ -1,0 +1,21 @@
+ExtXpoint.json:
+  section 1:
+      Key aspect list: 3 or 6 double value from 0 to 180. In 4 point configs: keys № 5, 6 are internal aspects.
+  section 2:
+      Sample group: int value from this list:
+          0 Union
+          1 Black
+          2 Red
+          3 Green
+          4 Blue
+          5 Violet
+          6 BlackRed
+          7 BlackGreen
+          8 BlackBlue
+          9 RedBlue
+         10 NotMarked
+      Base aspect: no used, value -1
+      Type: no used, value -1
+      Title: not empty string
+  section 3:
+      Exception list: used only in 4 point configs, contains  indexes of 3 point, most often is empty.
